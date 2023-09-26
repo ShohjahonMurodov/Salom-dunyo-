@@ -1,1 +1,1 @@
-print("Hello, World!!!")
+print("Nimaga bittada o'xshmayapti!!!")
